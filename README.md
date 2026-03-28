@@ -1,3 +1,5 @@
-This is a repository for all materials produced as a submission to Neel Nanda's MATS stream, which has a 20-hour constraint from ideation to submission.
+This is a repository for all materials produced as a submission to Neel Nanda's stream for MATS 10.0, which has a 20-hour constraint from the ideation of what a research question you'll attempt investigate to submission of a general application and a project. More information from Neel himself can be found here: https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/edit?tab=t.0#heading=h.y0ohi6l5z9qn.
 
-It should be noted that due the time constraint, there are limitations. A few of these were explicitly addressed in the write-up, though the general framing for this work should be that of preliminary rather than entirely finished.
+It should be noted that due the time constraint, there are noticeable limitations. A few of these were explicitly addressed in the write-up, though the general framing for this work should be that of preliminary rather than entirely finished.
+
+If you'd like to understand this work, starting with reading the "executive summary" section in writeup_fictionalframing.pdf is recommended to understand an overview of this project. From there, download the dataset and run code_fictionalframing.ipynb on Google Colab. An A100 with the High Ram setting was used for most of the inference and interpretability techniques.
