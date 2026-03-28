@@ -1,6 +1,6 @@
-## MATS 10.0 Submission - IHow Does a Reasoning Model Respond to and Internally Process Fictionally Framed Jailbreaks?
+## MATS 10.0 Submission - Fictionally Framed Jailbreaks Project
 
-This repository contains all materials produced for Neel Nanda's MATS 10.0 stream application. The project was completed under a 20-hour constraint, spanning from initial ideation to submission of a research question, write-up, and supporting code. More details about the stream and its requirements can be found in Neel's brief [here](https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/edit?tab=t.0#heading=h.y0ohi6l5z9qn).
+This repository contains all materials produced for an application to Neel Nanda's MATS 10.0 stream. The project was completed under a 20-hour constraint, spanning from initial ideation to submission of a research question, write-up, and supporting code. More details about the stream and its requirements can be found in Neel's brief [here](https://docs.google.com/document/d/1p-ggQV3vVWIQuCccXEl1fD0thJOgXimlbBpGk6FI32I/edit?tab=t.0#heading=h.y0ohi6l5z9qn).
 
 > Note: Given the time constraint, this work should be treated as preliminary. Several limitations are acknowledged explicitly in the write-up.
 
